@@ -1,0 +1,9 @@
+# Log Format
+ZCZC W00 40 L00 General, etc.
+ZCZC W00 30 L01 reading Scele and Discord.
+ZCZC W00 100 L02 Classroom 
+ZCZC W00 10 L03 Set up GitHub repo
+ZCZC W00 10 L04 Set up GitHub page
+ZCZC W00 15 L05 Quiz
+ZCZC W00 20 L08 Disscuss about OS
+ZCZC W00 60 L09 Weekly Assignments
