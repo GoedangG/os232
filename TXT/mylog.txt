@@ -1,6 +1,14 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+
+ZCZC W01 60 L00 General, etc.
+ZCZC W01 20 L01 reading Scele and Discord.
+ZCZC W01 20 L05 Quiz
+ZCZC W01 20 L08 Disscuss about Assignments
+ZCZC W01 240 L11 Assignment 01
+ZCZC W01 120 L64 Helping Friends
+ZCZC W01 30 L86 Helping mom
 ZCZC W00 40 L00 General, etc.
 ZCZC W00 30 L01 reading Scele and Discord.
 ZCZC W00 100 L02 Classroom 
