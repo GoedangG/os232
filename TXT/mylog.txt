@@ -24,3 +24,12 @@ ZCZC W02 200 L02 Classroom/zoom meetings
 ZCZC W02 20 L05 Quiz
 ZCZC W02 20 L08 Disscuss about Assignments
 ZCZC W02 200 L11 Assignment 02
+
+ZCZC W03 60 L00 General, etc.
+ZCZC W03 30 L01 reading Scele and Discord.
+ZCZC W03 80 L02 Zoom Meetings with faculty
+ZCZC W03 10 L03 Set up GitHub repo
+ZCZC W03 10 L04 Set up GitHub page
+ZCZC W03 15 L05 Quiz
+ZCZC W03 20 L08 Disscuss about OS
+ZCZC W03 10 L09 Weekly Assignments
