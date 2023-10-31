@@ -15,3 +15,6 @@ permalink: LINKS/
 * [File Management in Linux](https://www.geeksforgeeks.org/file-management-in-linux/) --- Management file in linux
 * [What is an Operating System as Fast As Possible](https://www.youtube.com/watch?v=pVzRTmdd9j0) --- Explain what is an OS in simple way
 * [Adding and removing disk drive in VirtualBox](https://progmar.net.pl/en/knowledge-base/virtualbox-adding-removing-disk-drive) --- How to modify disk drive in VirtualBox
+* [How to compare 2 files](https://www.geeksforgeeks.org/diff-command-linux-examples/) --- How to compare 2 files, step by step.
+* [Concurrency in OS](https://www.geeksforgeeks.org/concurrency-in-operating-system/) --- Additional resources about Concurrency
+* [Multithreading](https://unstop.com/blog/multithreading-in-os) --- Additional resources about multithreading
