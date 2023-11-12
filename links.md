@@ -18,3 +18,6 @@ permalink: LINKS/
 * [How to compare 2 files](https://www.geeksforgeeks.org/diff-command-linux-examples/) --- How to compare 2 files, step by step.
 * [Concurrency in OS](https://www.geeksforgeeks.org/concurrency-in-operating-system/) --- Additional resources about Concurrency
 * [Multithreading](https://unstop.com/blog/multithreading-in-os) --- Additional resources about multithreading
+* [Deadlock OS short video](https://www.youtube.com/watch?v=onkWXaXAgbY) --- Short video explain Deadlock in OS
+* [Difference between Deadlock and Starvation in OS](https://www.geeksforgeeks.org/difference-between-deadlock-and-starvation-in-os/) --- Difference between Deadlock and Starvation
+* [Process Synchronization in OS](https://www.javatpoint.com/os-process-synchronization-introduction) --- Explain sync process in OS
