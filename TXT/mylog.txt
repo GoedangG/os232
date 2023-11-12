@@ -58,3 +58,11 @@ ZCZC W06 30 L07 Demo related
 ZCZC W06 15 L08 Disscuss about OS related
 ZCZC W06 60 L11 Weekly assignment
 ZCZC W06 60 L86 Helping mom
+
+ZCZC W07 120 L00 General, etc.
+ZCZC W07 200  L02 Classroom
+ZCZC W07 30 L03 Github related
+ZCZC W07 30 L07 Demo related
+ZCZC W07 15 L08 Disscuss about OS related
+ZCZC W07 60 L11 Weekly assignment
+ZCZC W07 60 L86 Helping mom
