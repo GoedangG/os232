@@ -21,3 +21,4 @@ permalink: LINKS/
 * [Deadlock OS short video](https://www.youtube.com/watch?v=onkWXaXAgbY) --- Short video explain Deadlock in OS
 * [Difference between Deadlock and Starvation in OS](https://www.geeksforgeeks.org/difference-between-deadlock-and-starvation-in-os/) --- Difference between Deadlock and Starvation
 * [Process Synchronization in OS](https://www.javatpoint.com/os-process-synchronization-introduction) --- Explain sync process in OS
+* [CPU Scheduling](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/?ref=lbp) --- Explanation about CPU Scheduling in Operating Systems
