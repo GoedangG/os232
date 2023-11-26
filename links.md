@@ -22,3 +22,4 @@ permalink: LINKS/
 * [Difference between Deadlock and Starvation in OS](https://www.geeksforgeeks.org/difference-between-deadlock-and-starvation-in-os/) --- Difference between Deadlock and Starvation
 * [Process Synchronization in OS](https://www.javatpoint.com/os-process-synchronization-introduction) --- Explain sync process in OS
 * [CPU Scheduling](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/?ref=lbp) --- Explanation about CPU Scheduling in Operating Systems
+* [What is GRUB?](https://www.codecademy.com/resources/blog/grub-linux/) --- A short read about GRUB (GRand Unified Bootloader)
